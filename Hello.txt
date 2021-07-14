@@ -1,7 +1,4 @@
-Hello World
+#!/usr/bin/bash
 
-This is Katyayni singh
-
-Testing in server
-
-Testing again
+ls
+head /etc/passwd
