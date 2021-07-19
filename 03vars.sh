@@ -1,5 +1,5 @@
 A=10
-No_of_users= $(who |wc -1)
+No_of_users= $(who |wc -l)
 Date="07-19-2021"
 echo Welcome, Today's date is $Date
 
