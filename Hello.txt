@@ -4,3 +4,6 @@
 #head /etc/passwd
 
 echo -e "Welcome,\n\tHello World"
+
+echo -e "\e[31mMessage in RED"
+echo -e "\e[32mMessage in Yellow"
