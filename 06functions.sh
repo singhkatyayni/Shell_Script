@@ -10,4 +10,4 @@ sample() {
 a=50
 sample
 echo Value of b = ${b}
-echo first argument in function = $1
+echo first argument in main progam = $1
