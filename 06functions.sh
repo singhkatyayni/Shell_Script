@@ -8,6 +8,6 @@ sample() {
 }
 
 a=50
-sample
+sample ABC
 echo Value of b = ${b}
 echo first argument in main progam = $1
