@@ -12,8 +12,7 @@ echo Welcome, Today date is $date
 
 a=10
 a=20
-a=$a
-echo a
+echo value of a=$a
 readonly a
 a=30
-a=$a
+echo value of a=$a
