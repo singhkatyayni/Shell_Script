@@ -3,4 +3,4 @@
 #ls
 #head /etc/passwd
 
-echo -e "Welcome,/n/tHello World"
+echo -e "Welcome,\n\tHello World"
