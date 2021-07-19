@@ -7,5 +7,5 @@ echo Welcome, Today date is $Date
 echo Number of users=$No_of_users
 
 
-date=date +%F
+date=$(date +%F)
 echo Welcome, Today date is $date
