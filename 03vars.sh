@@ -16,3 +16,7 @@ echo value of a=$a
 readonly a
 a=30
 echo value of a=$a
+
+echo ${a[0]}
+echo ${a[1]}
+echo ${a[0] a[1]}
