@@ -5,5 +5,5 @@
 
 echo -e "Welcome,\n\tHello World"
 
-echo -e "\e[31mMessage in RED"
-echo -e "\e[32mMessage in Yellow"
+echo -e "\e[31mMessage in RED\e[0m"
+echo -e "\e[32mMessage in Yellow\e[0m"
